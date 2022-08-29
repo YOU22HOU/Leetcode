@@ -19,3 +19,5 @@ public:
         }
     }
 };
+
+ratings = [1,0,2]
