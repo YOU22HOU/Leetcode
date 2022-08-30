@@ -21,7 +21,7 @@ class Solution:
         return False
 
 nums = [2,5,6,0,0,1,2]
-target = 3
+target = 2
 ss = Solution()
 s=ss.search(nums,target)
 print(s)
